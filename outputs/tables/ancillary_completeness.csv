@@ -1,0 +1,6 @@
+"file","rows","columns","missing_values","included","run_id"
+"2-ANIMAL_PERFORMANCE.tab",63,22,0,TRUE,"1395afb10eb726ef"
+"3-BODY_COMPOSITION.tab",63,12,30,FALSE,"1395afb10eb726ef"
+"4-SCFA.tab",36,10,2,FALSE,"1395afb10eb726ef"
+"5-LITTER_COMPOSITION.tab",63,13,7,FALSE,"1395afb10eb726ef"
+"6-MASS_BALANCE.tab",63,20,174,FALSE,"1395afb10eb726ef"
