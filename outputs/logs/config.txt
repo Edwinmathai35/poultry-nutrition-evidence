@@ -1,0 +1,4 @@
+Run: 1395afb10eb726ef
+list(start = "2010-01-01", end = "2026-08-01", initial_n = 96L, 
+    development_end = "2024-08-01", test_start = "2024-09-01", 
+    horizons = c(1L, 3L), seed = 20261105)
