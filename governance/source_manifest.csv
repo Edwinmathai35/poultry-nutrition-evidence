@@ -1,0 +1,14 @@
+file,sha256,source_url
+1-READ_ME.pdf,1a0cdd01fac13fe42ab237d984e7b320c9dd6e6e472636afabe385d6560a5d83,https://entrepot.recherche.data.gouv.fr/api/access/datafile/662933
+2-ANIMAL_PERFORMANCE.tab,98d0d287117afe6111de1736e30ae42e8c6fe16d87fe23697c057a8c81e0a9c3,https://entrepot.recherche.data.gouv.fr/api/access/datafile/662937
+2-ANIMAL_PERFORMANCE.xlsx,a354b317fc51c5ccedbb7c147635957d8fc77656565b46ef53237fd1e281418c,https://entrepot.recherche.data.gouv.fr/api/access/datafile/662937?format=original
+3-BODY_COMPOSITION.tab,7a1321d7968e26922bb1b28319a2518c43e2b96841a826cfb43b55b620144bc0,https://entrepot.recherche.data.gouv.fr/api/access/datafile/662934
+3-BODY_COMPOSITION.xlsx,948bfa0ad8876955f5a6bccdac54ba26e4df670e618358528b818c5b45e86c5c,https://entrepot.recherche.data.gouv.fr/api/access/datafile/662934?format=original
+4-SCFA.tab,611159dd67fd4863f92d64eee84d20328487af4b4f0b01e60b18fc90ba39a227,https://entrepot.recherche.data.gouv.fr/api/access/datafile/662932
+4-SCFA.xlsx,cab3a15a91350cc9a511f20f3ad16c1947198099f810f4eb42fde2c8e08e9444,https://entrepot.recherche.data.gouv.fr/api/access/datafile/662932?format=original
+5-LITTER_COMPOSITION.tab,0730e9408b235df25a7fc91432fcf0bb63785cf6649f9527cc0ff20a9d754650,https://entrepot.recherche.data.gouv.fr/api/access/datafile/662936
+5-LITTER_COMPOSITION.xlsx,9c88d2c4160c89b6f6c534d1ca7296d3ec1ed9db958653250dd306acf62a14e8,https://entrepot.recherche.data.gouv.fr/api/access/datafile/662936?format=original
+6-MASS_BALANCE.tab,2f285f4a2e065c94a38e1e08bd4a8aa36aa086309f8486d393ac1072a24a9819,https://entrepot.recherche.data.gouv.fr/api/access/datafile/662935
+6-MASS_BALANCE.xlsx,1150b13e24be56bd260a64a69f2bd7ff86f6c17f89bd670ef9e20c02c19441a8,https://entrepot.recherche.data.gouv.fr/api/access/datafile/662935?format=original
+inrae.json,b2724fbb149bcb99fb91e97d169dd2bb491c05d4474f514acf8128eb97e7b397,https://entrepot.recherche.data.gouv.fr/api/datasets/:persistentId/?persistentId=doi:10.57745/1ZCQMN
+usda.xlsx,fc9350a7d9634681c29b57aba0364942da7c47cf2bae5cd38548e2f817e6c982,https://ers.usda.gov/media/5764/feed-grains-yearbook-tables-all-years.xlsx?v=51199
