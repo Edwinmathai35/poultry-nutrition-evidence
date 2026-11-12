@@ -1,7 +1,0 @@
-claim_id,claim,evidence_table,claim_type,boundary,run_id
-C01,200 complete months from January 2010 to August 2026,data_validation.csv; monthly_ratio.csv,Descriptive,"This is the selected period, not completeness of the whole workbook",1395afb10eb726ef
-C02,Selected models did not beat the naive baseline on holdout MAE at either horizon,forecast_accuracy.csv; selected_models.csv,Predictive,Do not claim statistical superiority of the baseline or all-horizon failure,1395afb10eb726ef
-C03,No significant FCR treatment-versus-CT contrasts after Holm correction,causal_treatment_effects.csv,Causal under stated design assumptions,Not proof of equivalence or absence of biologically important effects,1395afb10eb726ef
-C04,"LowCP-NoSBM ADG difference -4.519 g/bird/day, 95% CI [-7.089, -1.949], Holm p=0.005197",causal_treatment_effects.csv,Whole-diet causal contrast,Not an isolated protein or soybean mechanism; missing blocks disclosed,1395afb10eb726ef
-C05,LowCP-NoSBM ADG finding survives all 63 leave-one-pen-out checks,leave_one_pen_out_summary.csv,Sensitivity,Does not resolve unmeasured design limitations or external validity,1395afb10eb726ef
-C06,13 of 13 internal control tests passed,control_test_results.csv,Audit evidence,Covers specified scenarios only; not an independent audit or compliance certificate,1395afb10eb726ef
