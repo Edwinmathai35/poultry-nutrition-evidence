@@ -1,8 +1,0 @@
-"origin","model","status","message","run_id"
-"2018-07-01","ARMA101","error","ARIMA optimizer did not converge","1395afb10eb726ef"
-"2018-08-01","ARMA101","error","system is computationally singular: reciprocal condition number = 1.40326e-18","1395afb10eb726ef"
-"2018-09-01","ARMA101","error","system is computationally singular: reciprocal condition number = 4.83772e-19","1395afb10eb726ef"
-"2018-10-01","ARMA101","error","ARIMA optimizer did not converge","1395afb10eb726ef"
-"2020-05-01","SARIMA111100","error","ARIMA optimizer did not converge","1395afb10eb726ef"
-"2023-05-01","SARIMA111100","error","non-finite finite-difference value [2]","1395afb10eb726ef"
-"2025-11-01","SARIMA111100","error","non-finite finite-difference value [2]","1395afb10eb726ef"
